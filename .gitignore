@@ -1,0 +1,2 @@
+# ignore data as it's best practice to only commit code to your repo, not data.
+/books
